@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600&family=Noto+Serif+KR:wght@500;600;700&display=swap');
+.stApp{background:#faf8f3;color:#342e27;font-family:'Noto Sans KR',sans-serif;}
+.block-container{max-width:1180px;padding-top:2.4rem;padding-bottom:2rem;}
+h1,h2,h3{font-family:'Noto Serif KR',serif!important;color:#342e27;}h2{font-size:1.8rem!important;}h3{font-size:1.25rem!important;}
+.brand{font-family:'Noto Serif KR',serif;font-size:2.3rem;font-weight:700;color:#526248;}.brand span{font-family:sans-serif;font-size:.65rem;letter-spacing:.25em;margin-left:16px;vertical-align:middle;}
+.hero{margin:24px 0 45px;padding:54px 48px;border-radius:8px;background:linear-gradient(90deg,rgba(32,39,29,.90),rgba(32,39,29,.64),rgba(32,39,29,.08)),url('https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1600&q=85') center/cover;color:#fff9ee;}
+.hero h1{font-size:3rem!important;line-height:1.45;color:#fff9ee!important;margin:14px 0;}.hero p{line-height:1.9;color:#eee8dc;}.eyebrow{font-size:.7rem;letter-spacing:.23em;color:#d5dfc4;}.hero-note{display:inline-block;border-top:1px solid #b8bc9b80;margin-top:18px;padding-top:15px;font-size:.8rem;}
+[data-testid="stVerticalBlockBorderWrapper"]>div{border-color:#e5e0d5!important;border-radius:10px!important;}
+.food-photo{height:205px;background:#e9e5db;border-radius:7px;overflow:hidden;margin-bottom:12px;}.food-photo img{width:100%;height:100%;object-fit:cover;}
+.stButton button{border:1px solid #d9ddce;background:#f3f4eb;color:#4c5e40;border-radius:6px;min-height:44px;}.stButton button:hover{border-color:#718257;color:#344629;background:#e8eddf;}
+[data-testid="stRadio"]{margin-bottom:20px;}[data-testid="stRadio"] [role="radiogroup"]{gap:12px;flex-wrap:wrap;}[data-testid="stRadio"] label{background:#eeede3;padding:8px 14px;border-radius:22px;}
+@media(max-width:640px){.block-container{padding:1.3rem 1rem;}.hero{padding:30px 24px;margin:18px 0 28px;}.hero h1{font-size:2.15rem!important;}.brand{font-size:1.9rem;}[data-testid="stHorizontalBlock"]{flex-direction:column!important;}[data-testid="stColumn"]{width:100%!important;flex:1 1 100%!important;}.food-photo{height:220px;}}
+.block-container{max-width:1450px;padding-top:1.2rem;}
+.ingredients-table{width:100%;border-collapse:collapse;font-size:.9rem;}
+.ingredients-table td{padding:7px 4px;border-bottom:1px solid #e5e0d5;}
+.ingredients-table td:last-child{text-align:right;overflow-wrap:anywhere;}
+.ingredients-table th{text-align:left;padding:10px 4px 5px;color:#526248;}
+.recipe-steps{padding-left:1.5rem;margin-top:.4rem;font-size:.94rem;line-height:1.65;}
+.recipe-steps li{padding:0 0 12px 5px;}
+[data-testid="stChatInput"]{border:1px solid #b5c4a4;border-radius:12px;}
+.welcome-hero{min-height:215px;box-sizing:border-box;margin:4px 0 22px;padding:25px 36px;border-radius:20px;background-color:#343b2d;background-position:center 56%;background-size:cover;box-shadow:0 10px 28px #342e2712;overflow:hidden;}
+.welcome-copy{max-width:520px;color:#fff9ee;}
+[class*="st-key-category_card_"] [data-testid="stImage"] img{height:125px;object-fit:cover;border-radius:9px;}
+.welcome-eyebrow{font-size:.69rem;letter-spacing:.19em;color:#e0e8d1;font-weight:600;}
+.welcome-hero h1{color:#fff9ee!important;font-size:3.15rem!important;line-height:1.25;margin:8px 0 10px!important;padding:0!important;}
+.welcome-hero h1 span{display:inline-block;font-family:'Noto Sans KR',sans-serif;font-size:.84rem;font-weight:400;letter-spacing:.02em;margin-left:18px;color:#edeedc;vertical-align:middle;}
+.welcome-hero p{font-size:.92rem;line-height:1.7;margin:0;color:#fff9ee;}
+@media(max-width:640px){.welcome-hero{min-height:210px;padding:24px;border-radius:14px;background-position:58% center;}.welcome-hero h1{font-size:2.65rem!important;}.welcome-hero h1 span{display:block;font-size:.76rem;margin:7px 0 0;}.welcome-hero p{font-size:.84rem;}}
+.st-key-cooking_chat_panel{background:linear-gradient(155deg,#eef3e6 0%,#f7f8ee 55%,#fcf7eb 100%);border:1px solid #cdd9bf!important;border-radius:18px!important;box-shadow:0 8px 22px #5262480a;}
+.st-key-cooking_chat_panel h2{color:#3d5737!important;}
+.st-key-cooking_chat_panel [data-testid="stExpander"]{background:#ffffff80;border-color:#d4ddc9;border-radius:10px;}
+.st-key-cooking_chat_examples [data-testid="stAlert"]{background:#fff9e9!important;color:#594e31!important;border:1px solid #e6ddbf;border-radius:14px;}
+.st-key-cooking_chat_panel [data-testid="stChatMessage"]{background:#ffffffc9;border:1px solid #e0e5d6;border-radius:14px;padding:14px;}
+.st-key-cooking_chat_panel [data-testid="stChatInput"]{background:#fffefa;border:1px solid #9fb58c;box-shadow:0 3px 10px #5262480a;border-radius:14px;}
+.st-key-cooking_chat_panel [data-testid="stChatInput"]:focus-within{border-color:#5e7d4d;box-shadow:0 0 0 2px #71925720;}
+.st-key-cooking_chat_panel .stButton button{background:#fffdf5;border-color:#cbd7bd;}
+.st-key-cooking_chat_panel [class*="st-key-chat_recipe_row_"] .stButton button{min-height:32px;padding:2px 8px;}
+.st-key-cooking_chat_panel [class*="st-key-chat_recipe_row_"] .stButton button p{font-size:.8125rem;}
+.cuisine-banner{box-sizing:border-box;min-height:135px;border-radius:15px;background-size:cover;background-position:center 48%;padding:25px 28px;margin:0 0 10px;box-shadow:0 5px 18px #342e2710;}
+.cuisine-banner h2{color:#fff9ee!important;margin:0!important;padding:0!important;font-size:1.85rem!important;}
+.cuisine-banner p{color:#f0ecdd;font-size:.8rem;margin:8px 0 0;}
+.st-key-menu_grid .stButton button{min-height:78px;padding:8px 5px;border-radius:11px;background:#fffdf7;box-shadow:0 2px 6px #52624806;}
+.st-key-menu_grid .stButton button p{font-size:.8rem;line-height:1.45;word-break:keep-all;overflow-wrap:anywhere;}
+.st-key-menu_grid .stButton button:hover{background:#eaf0df;border-color:#8da277;}
+@media(min-width:641px){.st-key-menu_grid [data-testid="stHorizontalBlock"]{gap:.45rem;}}
+@media(max-width:640px){.cuisine-banner{min-height:115px;padding:20px;}.cuisine-banner h2{font-size:1.6rem!important;}.st-key-menu_grid .stButton button{min-height:48px;}}

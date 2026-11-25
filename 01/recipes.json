@@ -1,0 +1,3303 @@
+[
+  {
+    "id": "korean-01",
+    "name": "스팸마요 덮밥",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-01.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "스팸",
+        "quantity_text": "200g(1캔)",
+        "original_text": "스팸 200g(1캔)",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "4개",
+        "original_text": "계란 4개",
+        "section": "재료"
+      },
+      {
+        "name": "밥",
+        "quantity_text": "적당량",
+        "original_text": "밥 적당량",
+        "section": "재료"
+      },
+      {
+        "name": "김가루",
+        "quantity_text": "자율",
+        "original_text": "김가루 자율",
+        "section": "재료"
+      },
+      {
+        "name": "마요네즈",
+        "quantity_text": "자율",
+        "original_text": "마요네즈 자율",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "케첩",
+        "quantity_text": "1+1/2T",
+        "original_text": "케첩 1+1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "1+1/2T",
+        "original_text": "맛술 1+1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "물엿",
+        "quantity_text": "1+1/2T",
+        "original_text": "물엿 1+1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1+1/2T",
+        "original_text": "물 1+1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "1/3T",
+        "original_text": "진간장 1/3T",
+        "section": "양념"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1/3T",
+        "original_text": "굴소스 1/3T",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "스팸을 먹기 좋은 크기로 잘라서 준비합니다.",
+      "맛술 1+1/2T, 물엿 1+1/2T, 케첩 1+1/2T, 굴소스 1/3T, 진간장 1/3T를 섞어 양념장을 만듭니다.",
+      "프라이팬에 식용유를 두르고 잘라 놓은 스팸을 넣어 노릇하게 구워줍니다.",
+      "스팸이 익으면 만들어 놓은 양념장과 물 1+1/2T를 넣습니다.",
+      "졸이듯이 볶아준 후 팬 한쪽으로 몰아두고, 빈 공간에 계란 4개를 넣어 스크램블을 만듭니다.",
+      "그릇에 담은 밥 위에 스팸, 스크램블 에그, 김가루를 올리고 마요네즈를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-02",
+    "name": "팽이버섯 베이컨 볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-02.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "팽이버섯",
+        "quantity_text": "1줌",
+        "original_text": "팽이버섯 1줌",
+        "section": "재료"
+      },
+      {
+        "name": "베이컨",
+        "quantity_text": "2줄",
+        "original_text": "베이컨 2줄",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/4대",
+        "original_text": "대파 1/4대",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "버터",
+        "quantity_text": "1조각",
+        "original_text": "버터 1조각",
+        "section": "재료"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1큰술",
+        "original_text": "굴소스 1큰술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "팽이버섯은 밑동을 잘라내고 몇 줄기씩 뜯어주며, 베이컨과 대파는 채 썰어 준비합니다.",
+      "팬에 식용유를 두르고 대파를 넣어 1~2분 정도 볶아줍니다.",
+      "베이컨을 넣고 1~2분 정도 함께 볶아줍니다.",
+      "버터, 굴소스, 팽이버섯을 모두 넣고 1~2분 정도 재빨리 볶아 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-03",
+    "name": "굴소스 두부 덮밥",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-03.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "두부",
+        "quantity_text": "1모",
+        "original_text": "두부 1모",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "약간",
+        "original_text": "대파 약간",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "밥",
+        "quantity_text": "1/2공기",
+        "original_text": "밥 1/2공기",
+        "section": "재료"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1스푼",
+        "original_text": "굴소스 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "1스푼",
+        "original_text": "간장 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "올리고당",
+        "quantity_text": "1스푼",
+        "original_text": "올리고당 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1스푼",
+        "original_text": "다진 마늘 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "2/3종이컵",
+        "original_text": "물 2/3종이컵",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "적당량",
+        "original_text": "후추 적당량",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "약간",
+        "original_text": "참기름 약간",
+        "section": "양념"
+      },
+      {
+        "name": "참깨",
+        "quantity_text": "적당량",
+        "original_text": "참깨 적당량",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "두부 1모를 먹기 좋게 썬 뒤 키친타월로 물기를 제거하고, 식용유를 살짝 두른 프라이팬에 노릇하게 부칩니다.",
+      "양파 1/4개를 썰어 준비합니다. (없으면 생략 가능합니다.)",
+      "분량의 양념 재료를 모두 한데 넣어 잘 섞어줍니다.",
+      "두부가 노릇하게 익으면 만들어 놓은 양념장을 붓습니다.",
+      "썰어 놓은 양파를 넣고 물기가 아주 약간 남을 때까지 졸여줍니다.",
+      "대파가 있다면 불을 끄기 1분 전쯤 송송 썰어 위에 얹어줍니다.",
+      "밥 반 공기 위에 조린 두부를 듬뿍 올려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-04",
+    "name": "마늘 불고기",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-04.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "불고기용 고기(소고기 또는 돼지고기 등심)",
+        "quantity_text": "300g",
+        "original_text": "불고기용 고기(소고기 또는 돼지고기 등심) 300g",
+        "section": "재료"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "3T",
+        "original_text": "진간장 3T",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "3T",
+        "original_text": "설탕 3T",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "3T",
+        "original_text": "다진 마늘 3T",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "약간",
+        "original_text": "참기름 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "고기는 담백하고 고소한 등심 부위로 골라 핏물을 제거한 뒤 먹기 좋게 썰어줍니다.",
+      "진간장, 다진 마늘, 설탕을 1:1:1 비율로 넣고 후추와 참기름을 더해 양념장을 만듭니다. (채소가 들어가지 않으므로 마늘을 듬뿍 넣는 것이 핵심입니다.)",
+      "만들어 놓은 양념장에 고기를 넣고 잘 버무려줍니다.",
+      "달군 프라이팬에 양념한 고기를 올려 속까지 잘 익혀줍니다."
+    ]
+  },
+  {
+    "id": "korean-05",
+    "name": "차돌박이 숙주볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-05.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "차돌박이",
+        "quantity_text": "500g",
+        "original_text": "차돌박이 500g",
+        "section": "재료"
+      },
+      {
+        "name": "숙주",
+        "quantity_text": "1봉지",
+        "original_text": "숙주 1봉지",
+        "section": "재료"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1큰술",
+        "original_text": "다진 마늘 1큰술",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/2~1대",
+        "original_text": "대파 1/2~1대",
+        "section": "재료"
+      },
+      {
+        "name": "쪽파",
+        "quantity_text": "조금",
+        "original_text": "쪽파 조금",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "1큰술",
+        "original_text": "간장 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "2큰술",
+        "original_text": "굴소스 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "2큰술",
+        "original_text": "맛술 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1큰술",
+        "original_text": "설탕 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "1큰술",
+        "original_text": "참기름 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "깨",
+        "quantity_text": "1큰술",
+        "original_text": "깨 1큰술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "숙주를 깨끗하게 씻은 후 물기를 제거합니다.",
+      "간장 1큰술, 굴소스 2큰술, 맛술 2큰술, 설탕 1큰술, 참기름 1큰술, 깨 1큰술을 모두 섞어 양념장을 만듭니다.",
+      "프라이팬에 차돌박이를 먼저 바삭하게 구워줍니다.",
+      "차돌박이에서 나온 기름의 절반에 다진 마늘과 대파를 넣고 볶아 파기름을 냅니다.",
+      "파기름 위에 숙주를 넣고 숨이 죽을 때까지 빠르게 볶아줍니다.",
+      "구워둔 차돌박이와 양념장을 넣고 골고루 볶은 뒤 쪽파를 올려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-06",
+    "name": "감자 두부조림",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-06.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "두부",
+        "quantity_text": "1모",
+        "original_text": "두부 1모",
+        "section": "재료"
+      },
+      {
+        "name": "감자(소",
+        "quantity_text": "650g) 6개",
+        "original_text": "감자(소 650g) 6개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1개",
+        "original_text": "양파 1개",
+        "section": "재료"
+      },
+      {
+        "name": "쪽파",
+        "quantity_text": "6줄기",
+        "original_text": "쪽파 6줄기",
+        "section": "재료"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "3T",
+        "original_text": "진간장 3T",
+        "section": "양념"
+      },
+      {
+        "name": "국간장",
+        "quantity_text": "3T",
+        "original_text": "국간장 3T",
+        "section": "양념"
+      },
+      {
+        "name": "올리고당",
+        "quantity_text": "2T",
+        "original_text": "올리고당 2T",
+        "section": "양념"
+      },
+      {
+        "name": "간 마늘",
+        "quantity_text": "1T",
+        "original_text": "간 마늘 1T",
+        "section": "양념"
+      },
+      {
+        "name": "고추장",
+        "quantity_text": "2T",
+        "original_text": "고추장 2T",
+        "section": "양념"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "2T",
+        "original_text": "고춧가루 2T",
+        "section": "양념"
+      },
+      {
+        "name": "매실청",
+        "quantity_text": "1T (대체: 설탕 0.5~1큰술 + 식초 0.5작은술 또는 올리고당/물엿 0.5~1큰술)",
+        "original_text": "매실청 1T (대체: 설탕 0.5~1큰술 + 식초 0.5작은술 또는 올리고당/물엿 0.5~1큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1컵",
+        "original_text": "물 1컵",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "감자는 껍질을 벗겨 큼직하게 썰어 씻은 뒤 끓일 냄비 바닥에 깔아줍니다.",
+      "감자 위에 조림 양념을 모두 붓고, 채 썬 양파와 비슷한 크기로 썬 쪽파, 썬 두부를 차례로 올립니다.",
+      "숟가락으로 재료와 양념을 적당히 뒤적인 뒤 센불에 올려 끓여줍니다.",
+      "감자가 속까지 익고 국물이 자작하게 졸아들면 불을 끄고 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-07",
+    "name": "간장 콩불고기",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-07.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "콩나물",
+        "quantity_text": "300g",
+        "original_text": "콩나물 300g",
+        "section": "재료"
+      },
+      {
+        "name": "대패삼겹살",
+        "quantity_text": "250g",
+        "original_text": "대패삼겹살 250g",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1대",
+        "original_text": "대파 1대",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "5스푼",
+        "original_text": "간장 5스푼",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1스푼",
+        "original_text": "설탕 1스푼",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "콩나물을 깨끗이 씻어 체에 밭쳐 물기를 빼줍니다.",
+      "대파는 반으로 갈라 길쭉하게 썰어줍니다.",
+      "달군 팬에 대패삼겹살을 넣고 잘 펴주며 구워줍니다.",
+      "고기가 어느 정도 익으면 대파를 넣고 함께 볶아줍니다.",
+      "설탕 1스푼과 간장 5스푼을 넣고 고기에 간이 배도록 볶아줍니다.",
+      "마지막으로 물기를 뺀 콩나물을 넣고 고기와 잘 섞어가며 볶아 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-08",
+    "name": "미나리 닭가슴살 무침",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-08.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "닭가슴살",
+        "quantity_text": "적당량",
+        "original_text": "닭가슴살 적당량",
+        "section": "재료"
+      },
+      {
+        "name": "미나리",
+        "quantity_text": "300g",
+        "original_text": "미나리 300g",
+        "section": "재료"
+      },
+      {
+        "name": "오이",
+        "quantity_text": "1개",
+        "original_text": "오이 1개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "약간(선택)",
+        "original_text": "양파 약간(선택)",
+        "section": "재료"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "2TS",
+        "original_text": "고춧가루 2TS",
+        "section": "양념"
+      },
+      {
+        "name": "올리고당",
+        "quantity_text": "2TS (대체: 설탕 1~1.4큰술)",
+        "original_text": "올리고당 2TS (대체: 설탕 1~1.4큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "1TS",
+        "original_text": "간장 1TS",
+        "section": "양념"
+      },
+      {
+        "name": "식초",
+        "quantity_text": "2TS",
+        "original_text": "식초 2TS",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "1TS",
+        "original_text": "참기름 1TS",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1/2TS",
+        "original_text": "다진 마늘 1/2TS",
+        "section": "양념"
+      },
+      {
+        "name": "다진 파",
+        "quantity_text": "1TS",
+        "original_text": "다진 파 1TS",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "약간",
+        "original_text": "통깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "닭가슴살은 넉넉한 물에 20분 이상 푹 삶은 뒤 뚜껑을 덮어 뜸을 들여 비린내 없이 부드럽게 익혀 결대로 찢어줍니다.",
+      "오이는 깨끗이 씻어 반달 모양으로 썰고, 양파는 채 썰며, 미나리는 잎을 떼어내고 줄기 부분만 먹기 좋은 크기로 썰어줍니다.",
+      "고춧가루, 간장, 식초, 올리고당, 참기름, 다진 마늘, 다진 파, 통깨를 미리 섞어 양념장을 숙성시킵니다.",
+      "큰 볼에 미나리와 오이를 담고 양념장에 먼저 가볍게 무쳐줍니다.",
+      "손질한 닭가슴살을 넣고 한 번 더 골고루 무쳐 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-09",
+    "name": "참치 김치볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-09.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "잘 익은 김치",
+        "quantity_text": "1그릇",
+        "original_text": "잘 익은 김치 1그릇",
+        "section": "재료"
+      },
+      {
+        "name": "참치",
+        "quantity_text": "150g(1캔)",
+        "original_text": "참치 150g(1캔)",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/2줄기",
+        "original_text": "대파 1/2줄기",
+        "section": "재료"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "1스푼",
+        "original_text": "참기름 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1.5T",
+        "original_text": "설탕 1.5T",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1그릇",
+        "original_text": "물 1그릇",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "국그릇으로 한 그릇 분량의 잘 익은 김치를 가위로 먹기 좋게 잘라줍니다.",
+      "팬에 참기름 1스푼을 두르고 김치를 넣어 중불에서 2분 이상 볶아줍니다.",
+      "김치의 숨이 죽으면 설탕 1.5스푼을 넣어 볶다가, 김치를 담았던 국그릇으로 물을 가득 채워 부어줍니다.",
+      "센불에서 국물이 자작하게 졸아들 때까지 끓이면서 대파 1/2줄기를 넣어줍니다. (대파는 생략 가능합니다.)",
+      "마지막으로 참치를 기름째 모두 넣고 10초 이내로 짧게 볶아 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-10",
+    "name": "두부 무 조림",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-10.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "두부",
+        "quantity_text": "1.5모",
+        "original_text": "두부 1.5모",
+        "section": "재료"
+      },
+      {
+        "name": "무",
+        "quantity_text": "1/3개",
+        "original_text": "무 1/3개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/2개",
+        "original_text": "양파 1/2개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "조금",
+        "original_text": "대파 조금",
+        "section": "재료"
+      },
+      {
+        "name": "고추",
+        "quantity_text": "1개",
+        "original_text": "고추 1개",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "100ml",
+        "original_text": "간장 100ml",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "200ml",
+        "original_text": "물 200ml",
+        "section": "양념"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "1~2T",
+        "original_text": "고춧가루 1~2T",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1T",
+        "original_text": "설탕 1T",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1t",
+        "original_text": "다진 마늘 1t",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "1T",
+        "original_text": "참기름 1T",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "팬에 식용유를 두르고 두부를 앞뒤로 노릇노릇하게 굽습니다.",
+      "두부를 굽는 동안 무는 먹기 좋은 크기로 나박썰기하고, 양파·대파·고추도 알맞게 썰어 놓습니다.",
+      "물 200ml, 간장 100ml, 고춧가루 1~2T, 다진 마늘 1t, 설탕 1T, 썬 고추를 섞어 양념장을 만듭니다.",
+      "냄비 바닥에 무를 깔고 양념장의 절반만 먼저 부어줍니다.",
+      "그 위에 구운 두부와 양파, 대파를 올린 뒤 남은 양념장을 모두 붓습니다.",
+      "냄비 뚜껑을 덮고 센불에서 10분 정도 조린 후, 중불로 줄여 15분 더 졸여 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-11",
+    "name": "달걀 부추 볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-11.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "부추",
+        "quantity_text": "1/2단",
+        "original_text": "부추 1/2단",
+        "section": "재료"
+      },
+      {
+        "name": "달걀",
+        "quantity_text": "4개",
+        "original_text": "달걀 4개",
+        "section": "재료"
+      },
+      {
+        "name": "올리브유",
+        "quantity_text": "2큰술",
+        "original_text": "올리브유 2큰술",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "1큰술",
+        "original_text": "간장 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "1t",
+        "original_text": "참기름 1t",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "부추를 깨끗이 씻어 5cm 길이로 잘라줍니다.",
+      "볼에 달걀 4개를 깨 넣고 간장과 함께 잘 풀어줍니다.",
+      "팬을 달군 뒤 올리브유를 두르고 풀어둔 달걀물을 부어 젓가락으로 저어줍니다.",
+      "달걀이 몽글몽글하게 익기 시작하면 썰어 놓은 부추를 올립니다.",
+      "부추의 숨이 살짝 죽을 정도로만 빠르게 볶은 뒤 참기름을 둘러 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-12",
+    "name": "가지 불고기",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-12.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "가지",
+        "quantity_text": "2개",
+        "original_text": "가지 2개",
+        "section": "재료"
+      },
+      {
+        "name": "청양고추",
+        "quantity_text": "3개",
+        "original_text": "청양고추 3개",
+        "section": "재료"
+      },
+      {
+        "name": "포도씨유",
+        "quantity_text": "2큰술",
+        "original_text": "포도씨유 2큰술",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "2스푼",
+        "original_text": "간장 2스푼",
+        "section": "양념"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "1스푼",
+        "original_text": "맛술 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "올리고당",
+        "quantity_text": "1스푼 (대체: 설탕 0.5~0.7큰술)",
+        "original_text": "올리고당 1스푼 (대체: 설탕 0.5~0.7큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "매실청",
+        "quantity_text": "1스푼 (대체: 올리고당 2큰술 + 식초 1작은술)",
+        "original_text": "매실청 1스푼 (대체: 올리고당 2큰술 + 식초 1작은술)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5스푼",
+        "original_text": "다진 마늘 0.5스푼",
+        "section": "양념"
+      },
+      {
+        "name": "황설탕",
+        "quantity_text": "0.5스푼",
+        "original_text": "황설탕 0.5스푼",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "1스푼",
+        "original_text": "참기름 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "깨",
+        "quantity_text": "약간",
+        "original_text": "깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "가지는 반으로 가른 뒤 약간 두께감이 있게 썰고, 청양고추도 비슷한 크기로 썰어줍니다.",
+      "참기름과 깨를 제외한 분량의 양념 재료를 잘 섞어 양념장을 만듭니다.",
+      "팬에 포도씨유를 두르고 청양고추를 먼저 볶아 매콤한 향을 내줍니다.",
+      "가지를 넣고 수분이 빠져나오지 않도록 센불에서 빠르게 볶아줍니다.",
+      "양념장을 붓고 가지에 간이 잘 배도록 센불에서 짧게 볶아줍니다.",
+      "불을 끄고 참기름과 깨를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-13",
+    "name": "풋고추 베이컨 전",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-13.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "다진 풋고추",
+        "quantity_text": "1컵",
+        "original_text": "다진 풋고추 1컵",
+        "section": "재료"
+      },
+      {
+        "name": "베이컨",
+        "quantity_text": "2줄",
+        "original_text": "베이컨 2줄",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "3개",
+        "original_text": "계란 3개",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "3큰술",
+        "original_text": "식용유 3큰술",
+        "section": "재료"
+      },
+      {
+        "name": "가는 소금",
+        "quantity_text": "약간",
+        "original_text": "가는 소금 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "풋고추와 베이컨을 잘게 송송 다져줍니다.",
+      "볼에 계란을 잘 풀어준 뒤 다진 풋고추, 베이컨, 소금을 넣고 골고루 섞습니다.",
+      "프라이팬에 식용유를 두르고 팬이 달궈지면 반죽을 1큰술씩 떠 넣어 중약불에서 익혀줍니다.",
+      "바닥면이 노릇해지면 뒤집어서 양면이 고루 익도록 부쳐 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-14",
+    "name": "콩나물 어묵 잡채",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-14.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "콩나물",
+        "quantity_text": "500g",
+        "original_text": "콩나물 500g",
+        "section": "재료"
+      },
+      {
+        "name": "어묵",
+        "quantity_text": "6장",
+        "original_text": "어묵 6장",
+        "section": "재료"
+      },
+      {
+        "name": "당근",
+        "quantity_text": "1/2개",
+        "original_text": "당근 1/2개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1개",
+        "original_text": "양파 1개",
+        "section": "재료"
+      },
+      {
+        "name": "쪽파",
+        "quantity_text": "1/2줌",
+        "original_text": "쪽파 1/2줌",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "2큰술",
+        "original_text": "간장 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1/2큰술",
+        "original_text": "굴소스 1/2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1큰술",
+        "original_text": "설탕 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1/2큰술",
+        "original_text": "다진 마늘 1/2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "1큰술",
+        "original_text": "통깨 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "약간",
+        "original_text": "참기름 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "콩나물을 다듬어 씻은 후 끓는 물에 삶아 찬물에 헹궈 물기를 빼줍니다.",
+      "어묵, 양파, 당근은 가늘게 채 썰고, 쪽파는 5cm 길이로 썰어둡니다.",
+      "달군 팬에 식용유를 두르고 어묵을 먼저 볶다가 양념장의 절반을 넣고 함께 볶아줍니다.",
+      "채 썬 양파, 당근과 쪽파를 넣고 숨이 죽을 때까지 충분히 볶아줍니다.",
+      "불을 끄거나 약불로 줄인 뒤 식혀둔 콩나물과 남은 양념장을 넣고 골고루 버무립니다. (간이 부족하면 간장을 약간 추가합니다.)",
+      "마지막으로 통깨와 참기름을 두르고 가볍게 섞어 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-15",
+    "name": "달걀 참치전",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-15.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "참치캔",
+        "quantity_text": "100g",
+        "original_text": "참치캔 100g",
+        "section": "재료"
+      },
+      {
+        "name": "달걀",
+        "quantity_text": "2개",
+        "original_text": "달걀 2개",
+        "section": "재료"
+      },
+      {
+        "name": "다진 대파",
+        "quantity_text": "3큰술",
+        "original_text": "다진 대파 3큰술",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "참치액",
+        "quantity_text": "1작은술",
+        "original_text": "참치액 1작은술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "볼에 달걀을 잘 풀고 대파를 송송 다져 준비합니다.",
+      "달걀물에 다진 대파와 참치액 1작은술을 넣고 섞어줍니다.",
+      "기름을 뺀 참치를 넣고 고루 섞어 전 반죽을 만듭니다.",
+      "달군 팬에 식용유를 두르고 반죽을 한 수저씩 떠 올려 펴줍니다.",
+      "앞뒤로 뒤집어가며 양면이 노릇하고 고루 익도록 부쳐 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-16",
+    "name": "팽이버섯전",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-16.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "팽이버섯",
+        "quantity_text": "1/2단",
+        "original_text": "팽이버섯 1/2단",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "3알",
+        "original_text": "계란 3알",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/2단",
+        "original_text": "대파 1/2단",
+        "section": "재료"
+      },
+      {
+        "name": "고추",
+        "quantity_text": "2개",
+        "original_text": "고추 2개",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "약간",
+        "original_text": "소금 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "팽이버섯은 밑동을 자르고 결대로 찢은 뒤 깨끗하게 씻어 물기를 빼줍니다.",
+      "대파와 고추를 송송 썰어 볼에 담은 뒤 계란과 소금을 넣고 잘 풀어 섞어줍니다.",
+      "손질한 팽이버섯을 계란물에 푹 적셔줍니다.",
+      "식용유를 두른 팬에 팽이버섯을 올리고, 틈새가 비지 않도록 남은 계란물을 숟가락으로 떠서 채워가며 예쁘게 부쳐 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-17",
+    "name": "양파 두부 간장조림",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-17.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "두부",
+        "quantity_text": "1모",
+        "original_text": "두부 1모",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1뿌리",
+        "original_text": "대파 1뿌리",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/2개",
+        "original_text": "양파 1/2개",
+        "section": "재료"
+      },
+      {
+        "name": "마늘",
+        "quantity_text": "약간",
+        "original_text": "마늘 약간",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "2스푼",
+        "original_text": "식용유 2스푼",
+        "section": "재료"
+      },
+      {
+        "name": "들기름",
+        "quantity_text": "1스푼",
+        "original_text": "들기름 1스푼",
+        "section": "재료"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "3스푼",
+        "original_text": "간장 3스푼",
+        "section": "양념"
+      },
+      {
+        "name": "꿀",
+        "quantity_text": "1스푼",
+        "original_text": "꿀 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "2스푼",
+        "original_text": "다진 마늘 2스푼",
+        "section": "양념"
+      },
+      {
+        "name": "다시마육수",
+        "quantity_text": "1/2컵",
+        "original_text": "다시마육수 1/2컵",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "약간",
+        "original_text": "소금 약간",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "적당량",
+        "original_text": "참기름 적당량",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "두부는 찬물에 한 번 헹궈 먹기 좋은 크기로 두툼하게 썬 뒤 소금으로 밑간을 합니다.",
+      "마늘, 대파, 양파를 모두 가늘게 채 썰어줍니다.",
+      "채 썬 양파에 간장 3스푼, 꿀 1스푼, 다진 마늘 2스푼, 후추를 넣고 잘 섞어 양념장을 만듭니다.",
+      "팬에 식용유와 들기름을 두르고 밑간한 두부를 앞뒤로 노릇하게 구워줍니다.",
+      "구워진 두부를 팬 한쪽으로 밀어두고 빈 공간에 양념장과 다시마육수 1/2컵을 넣은 뒤 중불에서 조려줍니다.",
+      "조림 국물을 숟가락으로 두부 위에 끼얹어가며 조리다가 간을 보고(싱거우면 간장 추가), 마지막에 대파와 참기름을 올려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-18",
+    "name": "감자 채 계란전",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-18.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "감자",
+        "quantity_text": "4개",
+        "original_text": "감자 4개",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "4개",
+        "original_text": "계란 4개",
+        "section": "재료"
+      },
+      {
+        "name": "감자전분가루",
+        "quantity_text": "6T",
+        "original_text": "감자전분가루 6T",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "1T",
+        "original_text": "소금 1T",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "1/2T",
+        "original_text": "후추 1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "토마토",
+        "quantity_text": "1개",
+        "original_text": "토마토 1개",
+        "section": "샐러드"
+      },
+      {
+        "name": "양상추",
+        "quantity_text": "1/4포기",
+        "original_text": "양상추 1/4포기",
+        "section": "샐러드"
+      },
+      {
+        "name": "상추",
+        "quantity_text": "1/4포기",
+        "original_text": "상추 1/4포기",
+        "section": "샐러드"
+      },
+      {
+        "name": "로메인",
+        "quantity_text": "1/4포기",
+        "original_text": "로메인 1/4포기",
+        "section": "샐러드"
+      },
+      {
+        "name": "올리브유",
+        "quantity_text": "적당량",
+        "original_text": "올리브유 적당량",
+        "section": "샐러드"
+      }
+    ],
+    "steps": [
+      "채칼을 사용하여 감자를 가늘게 채 썰어줍니다.",
+      "채 썬 감자에 풀어둔 계란, 감자전분가루, 소금, 후추를 넣고 잘 저어 반죽을 만듭니다.",
+      "감자채에서 수분이 빠져나오기 전에 식용유를 두른 프라이팬에 반죽을 한 숟가락씩 옮겨 노릇하게 구워줍니다.",
+      "샐러드 채소와 토마토를 깨끗이 씻어 먹기 좋게 썬 뒤 구운 감자전 위에 올리고 올리브유를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-19",
+    "name": "순두부 계란 볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-19.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "순두부",
+        "quantity_text": "1개",
+        "original_text": "순두부 1개",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "2개",
+        "original_text": "계란 2개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "약간",
+        "original_text": "대파 약간",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "0.5~1큰술",
+        "original_text": "굴소스 0.5~1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "1큰술",
+        "original_text": "간장 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "약간",
+        "original_text": "참기름 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "볼에 계란 2개를 깨 넣고 잘 풀어 계란물을 만듭니다.",
+      "순두부는 껍질째 반으로 잘라 물기를 살짝 빼서 준비합니다.",
+      "간장 1큰술과 굴소스 0.5~1큰술을 섞어 양념장을 만듭니다.",
+      "기름을 두른 팬에 순두부를 넣고 먹기 좋은 크기로 자른 뒤 계란물을 빙 둘러 부어줍니다.",
+      "계란이 완전히 익기 전에 젓가락으로 살살 저어주며 송송 썬 대파를 넣고 순두부와 함께 섞어줍니다.",
+      "계란이 다 익으면 양념장을 넣고 골고루 섞은 뒤 참기름을 둘러 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-20",
+    "name": "마카로니 라볶이",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-20.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "마카로니",
+        "quantity_text": "1/2컵",
+        "original_text": "마카로니 1/2컵",
+        "section": "재료"
+      },
+      {
+        "name": "소시지",
+        "quantity_text": "2개",
+        "original_text": "소시지 2개",
+        "section": "재료"
+      },
+      {
+        "name": "라면사리",
+        "quantity_text": "1개",
+        "original_text": "라면사리 1개",
+        "section": "재료"
+      },
+      {
+        "name": "모차렐라 치즈",
+        "quantity_text": "1줌",
+        "original_text": "모차렐라 치즈 1줌",
+        "section": "재료"
+      },
+      {
+        "name": "물",
+        "quantity_text": "250ml",
+        "original_text": "물 250ml",
+        "section": "재료"
+      },
+      {
+        "name": "고추장",
+        "quantity_text": "1.5T",
+        "original_text": "고추장 1.5T",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "2T",
+        "original_text": "설탕 2T",
+        "section": "양념"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "1/2T",
+        "original_text": "고춧가루 1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "멸치가루",
+        "quantity_text": "1/2T",
+        "original_text": "멸치가루 1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1/2T",
+        "original_text": "다진 마늘 1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "1/2T",
+        "original_text": "간장 1/2T",
+        "section": "양념"
+      },
+      {
+        "name": "깨",
+        "quantity_text": "조금",
+        "original_text": "깨 조금",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "전기밥솥 내솥에 마카로니와 물 250ml를 넣어줍니다.",
+      "먹기 좋게 썬 소시지 2개와 양념 재료(고추장 1.5T, 설탕 2T, 고춧가루 1/2T, 멸치가루 1/2T, 다진 마늘 1/2T, 간장 1/2T)를 모두 넣어줍니다.",
+      "양념이 물에 잘 풀리도록 저어준 뒤 밥솥의 '만능찜' 기능으로 10분간 조리합니다.",
+      "만능찜이 끝나면 뚜껑을 열고 라면사리를 물에 고루 적시며 바닥에 닿게 넣은 뒤, 그 위에 모차렐라 치즈 한 줌을 올립니다.",
+      "'재가열' 기능을 9분간 작동하여 라면사리를 완전히 익힌 후, 끝나자마자 면과 양념이 잘 섞이도록 저어줍니다.",
+      "완성된 라볶이를 그릇에 덜어내고 깨를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-21",
+    "name": "참치마요 깻잎 덮밥",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-21.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "참치캔",
+        "quantity_text": "100g(1캔)",
+        "original_text": "참치캔 100g(1캔)",
+        "section": "재료"
+      },
+      {
+        "name": "깻잎",
+        "quantity_text": "5장",
+        "original_text": "깻잎 5장",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "밥",
+        "quantity_text": "1공기",
+        "original_text": "밥 1공기",
+        "section": "재료"
+      },
+      {
+        "name": "김가루",
+        "quantity_text": "약간",
+        "original_text": "김가루 약간",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "약간",
+        "original_text": "식용유 약간",
+        "section": "재료"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "1.5큰술",
+        "original_text": "진간장 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "1큰술 (대체: 소주 1큰술 또는 물 1큰술 + 설탕 1꼬집)",
+        "original_text": "맛술 1큰술 (대체: 소주 1큰술 또는 물 1큰술 + 설탕 1꼬집)",
+        "section": "양념"
+      },
+      {
+        "name": "올리고당",
+        "quantity_text": "1큰술 (대체: 설탕 0.7큰술)",
+        "original_text": "올리고당 1큰술 (대체: 설탕 0.7큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "마요네즈",
+        "quantity_text": "적당량",
+        "original_text": "마요네즈 적당량",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "양파는 얇게 채 썰고, 깻잎은 돌돌 말아 가늘게 채 썰어 준비합니다.",
+      "팬에 식용유를 살짝 두르고 채 썬 양파가 투명해질 때까지 볶아줍니다.",
+      "볶아진 양파에 진간장, 맛술, 올리고당을 넣고 약불에서 1분간 자작하게 졸여 양파 소스를 만듭니다.",
+      "그릇에 밥을 담고 졸인 양파를 얹은 뒤, 기름을 뺀 참치와 채 썬 깻잎, 김가루를 올립니다.",
+      "마지막으로 마요네즈를 취향껏 듬뿍 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-22",
+    "name": "애호박 새우젓 볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-22.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "애호박",
+        "quantity_text": "1개",
+        "original_text": "애호박 1개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/3대",
+        "original_text": "대파 1/3대",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "1큰술",
+        "original_text": "식용유 1큰술",
+        "section": "재료"
+      },
+      {
+        "name": "새우젓",
+        "quantity_text": "1큰술 (대체: 참치액 1큰술 또는 국간장 1큰술 + 소금 1꼬집)",
+        "original_text": "새우젓 1큰술 (대체: 참치액 1큰술 또는 국간장 1큰술 + 소금 1꼬집)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "3큰술",
+        "original_text": "물 3큰술",
+        "section": "양념"
+      },
+      {
+        "name": "들기름",
+        "quantity_text": "1큰술 (대체: 참기름 1큰술)",
+        "original_text": "들기름 1큰술 (대체: 참기름 1큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "약간",
+        "original_text": "통깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "애호박은 반달 모양으로 도톰하게 썰고, 양파는 채 썰며 대파는 송송 썰어줍니다.",
+      "팬에 식용유를 두르고 다진 마늘과 대파를 넣어 약불에서 향을 내줍니다.",
+      "애호박과 양파를 넣고 중불에서 1분간 볶아줍니다.",
+      "새우젓과 물 3큰술을 넣고 뚜껑을 덮어 중약불에서 3분간 익혀줍니다.",
+      "애호박이 투명하게 익으면 불을 끄고 들기름과 통깨를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-23",
+    "name": "5분 어묵볶음",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-23.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "사각어묵",
+        "quantity_text": "3장",
+        "original_text": "사각어묵 3장",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/4대",
+        "original_text": "대파 1/4대",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "1큰술",
+        "original_text": "식용유 1큰술",
+        "section": "재료"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "1.5큰술",
+        "original_text": "진간장 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "올리고당",
+        "quantity_text": "1큰술 (대체: 설탕 0.7큰술)",
+        "original_text": "올리고당 1큰술 (대체: 설탕 0.7큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "2큰술",
+        "original_text": "물 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "약간",
+        "original_text": "통깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "사각어묵은 먹기 좋은 한입 크기로 썰고, 양파는 채 썰며 대파는 송송 썰어 준비합니다.",
+      "팬에 식용유를 두르고 어묵과 양파를 넣어 중불에서 1분간 볶아줍니다.",
+      "진간장, 올리고당, 다진 마늘, 물을 넣고 양념이 어묵에 배어들 때까지 2분간 볶아줍니다.",
+      "송송 썬 대파를 넣고 30초간 더 볶은 뒤 불을 끄고 참기름과 통깨를 둘러 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-24",
+    "name": "초간단 순두부찌개",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-24.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "순두부",
+        "quantity_text": "1봉지",
+        "original_text": "순두부 1봉지",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "1개",
+        "original_text": "계란 1개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/3대",
+        "original_text": "대파 1/3대",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "다진 돼지고기 또는 참치",
+        "quantity_text": "2큰술 (생략 가능)",
+        "original_text": "다진 돼지고기 또는 참치 2큰술 (생략 가능)",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "1큰술",
+        "original_text": "식용유 1큰술",
+        "section": "재료"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "1.5큰술",
+        "original_text": "고춧가루 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "1큰술",
+        "original_text": "진간장 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "액젓",
+        "quantity_text": "0.5큰술 (대체: 소금 1꼬집 또는 국간장 0.5큰술)",
+        "original_text": "액젓 0.5큰술 (대체: 소금 1꼬집 또는 국간장 0.5큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "150ml",
+        "original_text": "물 150ml",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "대파는 송송 썰고 양파는 잘게 다져 준비합니다.",
+      "냄비에 식용유를 두르고 대파, 양파, 고춧가루를 넣어 약불에서 타지 않게 1분간 볶아 고추기름을 냅니다. (고기를 넣을 경우 이때 함께 볶아줍니다.)",
+      "물 150ml와 진간장, 액젓, 다진 마늘을 넣고 센불에서 끓여줍니다.",
+      "국물이 끓으면 순두부를 큼직하게 숟가락으로 떠 넣고 3분간 더 끓여줍니다.",
+      "계란 1개를 깨 넣고 후추를 살짝 뿌린 뒤 1분간 익혀 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-25",
+    "name": "전자레인지 계란찜",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-25.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "계란",
+        "quantity_text": "3개",
+        "original_text": "계란 3개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "약간",
+        "original_text": "대파 약간",
+        "section": "재료"
+      },
+      {
+        "name": "물",
+        "quantity_text": "120ml (종이컵 2/3컵)",
+        "original_text": "물 120ml (종이컵 2/3컵)",
+        "section": "재료"
+      },
+      {
+        "name": "새우젓",
+        "quantity_text": "0.5큰술 (대체: 소금 1/3작은술 또는 참치액 0.5큰술)",
+        "original_text": "새우젓 0.5큰술 (대체: 소금 1/3작은술 또는 참치액 0.5큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "약간",
+        "original_text": "통깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "전자레인지 사용이 가능한 깊은 내열 용기에 계란 3개를 깨 넣고 알끈이 풀리도록 잘 저어줍니다.",
+      "물 120ml와 새우젓(또는 소금), 송송 썬 대파를 넣고 골고루 섞어줍니다.",
+      "용기 위에 랩을 씌운 뒤 포크로 구멍을 3~4개 뚫어줍니다. (뚜껑을 살짝 비스듬히 덮어도 됩니다.)",
+      "전자레인지(700W 기준)에 넣고 3분 30초~4분간 돌려 익혀줍니다.",
+      "꺼낸 뒤 참기름과 통깨를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "korean-26",
+    "name": "상추 겉절이",
+    "category": "한식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/korean-26.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "상추",
+        "quantity_text": "10장",
+        "original_text": "상추 10장",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개 (생략 가능)",
+        "original_text": "양파 1/4개 (생략 가능)",
+        "section": "재료"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "1큰술",
+        "original_text": "고춧가루 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "1큰술",
+        "original_text": "진간장 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "액젓",
+        "quantity_text": "0.5큰술 (대체: 진간장 0.5큰술 추가)",
+        "original_text": "액젓 0.5큰술 (대체: 진간장 0.5큰술 추가)",
+        "section": "양념"
+      },
+      {
+        "name": "식초",
+        "quantity_text": "1큰술",
+        "original_text": "식초 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "0.5큰술",
+        "original_text": "설탕 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.3큰술",
+        "original_text": "다진 마늘 0.3큰술",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "약간",
+        "original_text": "통깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "상추는 흐르는 물에 깨끗이 씻어 물기를 털어낸 뒤 손으로 먹기 좋게 뜯어줍니다. (양파를 넣을 경우 얇게 채 썰어 둡니다.)",
+      "볼에 고춧가루, 진간장, 액젓, 식초, 설탕, 다진 마늘을 넣고 잘 섞어 양념장을 만듭니다.",
+      "먹기 직전에 볼에 상추와 양념장을 넣고 숨이 죽지 않도록 살살 버무려줍니다.",
+      "마지막으로 참기름과 통깨를 뿌려 가볍게 한 번 더 섞어 마무리합니다."
+    ]
+  },
+  {
+    "id": "japanese-01",
+    "name": "우유 달걀 카레",
+    "category": "일식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/japanese-01.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "달걀",
+        "quantity_text": "2개",
+        "original_text": "달걀 2개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "마늘",
+        "quantity_text": "4쪽",
+        "original_text": "마늘 4쪽",
+        "section": "재료"
+      },
+      {
+        "name": "버터",
+        "quantity_text": "1조각",
+        "original_text": "버터 1조각",
+        "section": "재료"
+      },
+      {
+        "name": "카레가루",
+        "quantity_text": "3숟가락",
+        "original_text": "카레가루 3숟가락",
+        "section": "양념"
+      },
+      {
+        "name": "우유",
+        "quantity_text": "2숟가락",
+        "original_text": "우유 2숟가락",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1.5종이컵",
+        "original_text": "물 1.5종이컵",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "약간",
+        "original_text": "소금 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "마늘은 얇게 편 썰고, 양파는 0.5cm 두께로 채 썰어 준비합니다.",
+      "볼에 달걀을 깨 넣고 소금과 우유를 넣어 잘 풀어줍니다.",
+      "달군 팬에 버터를 녹인 뒤 편 썬 마늘과 양파를 넣고 볶아줍니다.",
+      "양파가 투명해지면 물 1.5종이컵을 붓고 끓입니다.",
+      "물이 끓기 시작하면 카레가루를 넣고 뭉치지 않게 잘 풀어줍니다.",
+      "카레가루가 잘 풀어지면 약불로 줄이고 달걀물을 동그랗게 둘러 부어줍니다.",
+      "약불 또는 잔열에서 가볍게 섞어 익힌 뒤 마무리합니다."
+    ]
+  },
+  {
+    "id": "japanese-02",
+    "name": "스팸가스",
+    "category": "일식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/japanese-02.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "스팸",
+        "quantity_text": "1캔",
+        "original_text": "스팸 1캔",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "1개",
+        "original_text": "계란 1개",
+        "section": "재료"
+      },
+      {
+        "name": "밀가루",
+        "quantity_text": "적당량",
+        "original_text": "밀가루 적당량",
+        "section": "재료"
+      },
+      {
+        "name": "빵가루",
+        "quantity_text": "적당량",
+        "original_text": "빵가루 적당량",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "적당량",
+        "original_text": "식용유 적당량",
+        "section": "재료"
+      },
+      {
+        "name": "시판 돈가스 소스",
+        "quantity_text": "적당량",
+        "original_text": "시판 돈가스 소스 적당량",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "스팸은 먹기 좋은 두께로 3등분하여 잘라줍니다.",
+      "볼에 계란 1개를 깨 넣고 잘 풀어줍니다.",
+      "자른 스팸에 밀가루, 계란물, 빵가루 순서로 튀김옷을 입혀줍니다. (밀가루가 두껍게 뭉치지 않도록 탁탁 털어내며 묻히는 것이 좋습니다.)",
+      "달군 팬에 식용유를 넉넉히 두르고 튀기듯 앞뒷면을 노릇하게 구워줍니다.",
+      "다 익은 스팸가스를 키친타월 위에 올려 기름기를 뺀 뒤, 접시에 담고 돈가스 소스를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "japanese-03",
+    "name": "크림새우",
+    "category": "일식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/japanese-03.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "칵테일새우(소)",
+        "quantity_text": "2줌",
+        "original_text": "칵테일새우(소) 2줌",
+        "section": "재료"
+      },
+      {
+        "name": "레몬",
+        "quantity_text": "1/3개",
+        "original_text": "레몬 1/3개",
+        "section": "재료"
+      },
+      {
+        "name": "올리브유",
+        "quantity_text": "적당량 (대체: 식용유 적당량)",
+        "original_text": "올리브유 적당량 (대체: 식용유 적당량)",
+        "section": "재료"
+      },
+      {
+        "name": "튀김가루",
+        "quantity_text": "1컵",
+        "original_text": "튀김가루 1컵",
+        "section": "튀김 반죽"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1/2컵",
+        "original_text": "물 1/2컵",
+        "section": "튀김 반죽"
+      },
+      {
+        "name": "마요네즈",
+        "quantity_text": "4T",
+        "original_text": "마요네즈 4T",
+        "section": "크림소스"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "2T",
+        "original_text": "설탕 2T",
+        "section": "크림소스"
+      },
+      {
+        "name": "식초",
+        "quantity_text": "1T",
+        "original_text": "식초 1T",
+        "section": "크림소스"
+      }
+    ],
+    "steps": [
+      "볼에 물과 튀김가루를 넣고 섞어 튀김 반죽을 만든 뒤 냉장고에 잠시 보관합니다.",
+      "다른 볼에 설탕, 마요네즈, 식초를 넣고 잘 섞어 크림소스를 만듭니다.",
+      "칵테일새우는 꼬리를 자르고(선택 사항), 냉장고에서 꺼낸 튀김 반죽에 잘 버무려 달군 올리브유에 바삭하게 튀겨냅니다.",
+      "프라이팬을 약불로 달군 뒤 크림소스를 넣어 살살 녹여줍니다.",
+      "소스가 녹으면 튀겨둔 새우와 레몬 조각을 넣고 빠르게 버무려 마무리합니다."
+    ]
+  },
+  {
+    "id": "japanese-04",
+    "name": "치킨 가라아게",
+    "category": "일식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/japanese-04.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "닭가슴살",
+        "quantity_text": "300g",
+        "original_text": "닭가슴살 300g",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "적당량",
+        "original_text": "식용유 적당량",
+        "section": "재료"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "3스푼",
+        "original_text": "맛술 3스푼",
+        "section": "양념"
+      },
+      {
+        "name": "간장",
+        "quantity_text": "3스푼",
+        "original_text": "간장 3스푼",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1스푼",
+        "original_text": "다진 마늘 1스푼",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1/2스푼",
+        "original_text": "설탕 1/2스푼",
+        "section": "양념"
+      },
+      {
+        "name": "생강가루",
+        "quantity_text": "약간",
+        "original_text": "생강가루 약간",
+        "section": "양념"
+      },
+      {
+        "name": "후춧가루",
+        "quantity_text": "약간",
+        "original_text": "후춧가루 약간",
+        "section": "양념"
+      },
+      {
+        "name": "전분",
+        "quantity_text": "2컵",
+        "original_text": "전분 2컵",
+        "section": "튀김 반죽"
+      },
+      {
+        "name": "튀김가루",
+        "quantity_text": "2컵",
+        "original_text": "튀김가루 2컵",
+        "section": "튀김 반죽"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1컵",
+        "original_text": "물 1컵",
+        "section": "튀김 반죽"
+      }
+    ],
+    "steps": [
+      "닭가슴살을 한입 크기로 각지게 썰어 볼에 담은 뒤 맛술, 간장, 다진 마늘, 설탕, 생강가루, 후춧가루를 넣고 버무려 30분~1시간 정도 숙성시킵니다.",
+      "전분, 튀김가루, 물을 섞어 튀김 반죽을 만든 뒤 숙성된 닭가슴살에 골고루 묻혀줍니다.",
+      "달군 기름에 반죽 입힌 닭가슴살을 넣고 노릇하게 한 번 튀겨 건져냅니다.",
+      "기름 온도를 다시 올린 뒤 초벌로 튀긴 닭고기를 한 번 더 바삭하게 튀겨 마무리합니다."
+    ]
+  },
+  {
+    "id": "japanese-05",
+    "name": "데리야끼 삼겹살 조림",
+    "category": "일식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/japanese-05.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "삼겹살",
+        "quantity_text": "1줄(약 200~300g)",
+        "original_text": "삼겹살 1줄(약 200~300g)",
+        "section": "재료"
+      },
+      {
+        "name": "데리야끼 소스",
+        "quantity_text": "3T",
+        "original_text": "데리야끼 소스 3T",
+        "section": "양념"
+      },
+      {
+        "name": "양파절임 간장",
+        "quantity_text": "4T (대체: 진간장 4T)",
+        "original_text": "양파절임 간장 4T (대체: 진간장 4T)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "1T",
+        "original_text": "다진 마늘 1T",
+        "section": "양념"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "1T",
+        "original_text": "맛술 1T",
+        "section": "양념"
+      },
+      {
+        "name": "꿀",
+        "quantity_text": "1T",
+        "original_text": "꿀 1T",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "삼겹살은 한입에 먹기 좋은 크기로 잘게 썰어 준비합니다.",
+      "달군 팬에 썬 삼겹살과 다진 마늘, 맛술을 넣고 함께 볶아줍니다.",
+      "고기가 반쯤 익으면 데리야끼 소스와 양파절임 간장(또는 진간장)을 붓고 양념이 배도록 조려줍니다.",
+      "고기가 다 익고 소스가 자작해지면 불을 끄고 꿀과 후추를 넣은 뒤 잔열로 가볍게 볶아 마무리합니다."
+    ]
+  },
+  {
+    "id": "chinese-01",
+    "name": "중화풍 계란 볶음밥",
+    "category": "중식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/chinese-01.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "찬밥",
+        "quantity_text": "1공기",
+        "original_text": "찬밥 1공기",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "2개",
+        "original_text": "계란 2개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/2대",
+        "original_text": "대파 1/2대",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "2큰술",
+        "original_text": "식용유 2큰술",
+        "section": "재료"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1큰술 (대체: 진간장 1큰술 + 설탕 0.3작은술)",
+        "original_text": "굴소스 1큰술 (대체: 진간장 1큰술 + 설탕 0.3작은술)",
+        "section": "양념"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "0.5큰술",
+        "original_text": "진간장 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "대파는 송송 썰고, 볼에 계란 2개를 깨 넣어 잘 풀어줍니다.",
+      "달군 팬에 식용유 2큰술과 대파를 넣고 중불에서 파 향이 올라올 때까지 볶아 파기름을 만듭니다.",
+      "파기름 한쪽으로 계란물을 붓고 젓가락으로 빠르게 저어 스크램블 에그를 만듭니다.",
+      "찬밥을 넣고 주걱으로 밥알을 누르듯 펴가며 계란, 대파와 함께 2분간 볶아줍니다.",
+      "밥을 한쪽으로 밀고 빈 팬 바닥에 진간장 0.5큰술을 부어 살짝 태우듯 끓인 뒤 굴소스, 후추를 넣고 전체적으로 1분간 더 볶아 참기름을 둘러 마무리합니다."
+    ]
+  },
+  {
+    "id": "chinese-02",
+    "name": "초간단 마파두부 덮밥",
+    "category": "중식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/chinese-02.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "두부",
+        "quantity_text": "1모",
+        "original_text": "두부 1모",
+        "section": "재료"
+      },
+      {
+        "name": "다진 돼지고기",
+        "quantity_text": "100g (대체: 참치캔 100g 또는 스팸 다진 것)",
+        "original_text": "다진 돼지고기 100g (대체: 참치캔 100g 또는 스팸 다진 것)",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/2대",
+        "original_text": "대파 1/2대",
+        "section": "재료"
+      },
+      {
+        "name": "밥",
+        "quantity_text": "1공기",
+        "original_text": "밥 1공기",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "1.5큰술",
+        "original_text": "식용유 1.5큰술",
+        "section": "재료"
+      },
+      {
+        "name": "두반장",
+        "quantity_text": "1큰술 (대체: 고추장 1큰술 + 된장 0.5큰술)",
+        "original_text": "두반장 1큰술 (대체: 고추장 1큰술 + 된장 0.5큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1큰술 (대체: 진간장 1큰술)",
+        "original_text": "굴소스 1큰술 (대체: 진간장 1큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "0.5큰술",
+        "original_text": "고춧가루 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "0.5큰술",
+        "original_text": "설탕 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "150ml",
+        "original_text": "물 150ml",
+        "section": "양념"
+      },
+      {
+        "name": "전분물(전분",
+        "quantity_text": "1큰술 + 물 2큰술, 생략 가능)",
+        "original_text": "전분물(전분 1큰술 + 물 2큰술, 생략 가능)",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "두부는 깍둑썰기하고, 대파는 송송 썰어 준비합니다.",
+      "팬에 식용유를 두르고 대파와 다진 마늘, 고춧가루를 넣어 약불에서 1분간 볶아 고추기름을 냅니다.",
+      "다진 돼지고기를 넣고 핏기가 사라질 때까지 볶다가 두반장과 설탕을 넣고 함께 볶아줍니다.",
+      "물 150ml와 굴소스, 썰어둔 두부를 넣고 중불에서 3분간 끓여줍니다.",
+      "전분물을 조금씩 부어가며 걸쭉하게 농도를 맞춘 뒤 참기름을 두르고, 그릇에 담은 밥 위에 올려 마무리합니다."
+    ]
+  },
+  {
+    "id": "chinese-03",
+    "name": "토마토 달걀 볶음 (토달볶)",
+    "category": "중식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/chinese-03.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "토마토",
+        "quantity_text": "2개",
+        "original_text": "토마토 2개",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "3개",
+        "original_text": "계란 3개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "약간",
+        "original_text": "대파 약간",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "2큰술",
+        "original_text": "식용유 2큰술",
+        "section": "재료"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "0.5큰술 (대체: 진간장 0.5큰술)",
+        "original_text": "굴소스 0.5큰술 (대체: 진간장 0.5큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "케첩",
+        "quantity_text": "1큰술",
+        "original_text": "케첩 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "0.5큰술",
+        "original_text": "설탕 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "2꼬집",
+        "original_text": "소금 2꼬집",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "토마토는 꼭지를 떼고 먹기 좋은 한입 크기로 썰며, 대파는 송송 썰어줍니다.",
+      "볼에 계란 3개와 소금 2꼬집을 넣고 잘 풀어 계란물을 만듭니다.",
+      "달군 팬에 식용유 1큰술을 두르고 계란물을 부어 80% 정도만 익힌 몽글몽글한 스크램블 상태로 만든 뒤 접시에 덜어둡니다.",
+      "같은 팬에 식용유 1큰술을 추가하고 대파와 토마토를 넣어 센불에서 1분간 볶아줍니다.",
+      "굴소스, 케첩, 설탕을 넣고 토마토에서 즙이 나올 때까지 1분간 더 볶은 뒤, 덜어둔 계란을 넣고 가볍게 섞어 참기름을 둘러 마무리합니다."
+    ]
+  },
+  {
+    "id": "chinese-04",
+    "name": "중화풍 청경채 굴소스 볶음",
+    "category": "중식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/chinese-04.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "청경채",
+        "quantity_text": "4포기 (대체: 배추 속대 또는 양배추 적당량)",
+        "original_text": "청경채 4포기 (대체: 배추 속대 또는 양배추 적당량)",
+        "section": "재료"
+      },
+      {
+        "name": "마늘",
+        "quantity_text": "4쪽",
+        "original_text": "마늘 4쪽",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "1큰술",
+        "original_text": "식용유 1큰술",
+        "section": "재료"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "1큰술 (대체: 진간장 1큰술 + 설탕 0.5작은술)",
+        "original_text": "굴소스 1큰술 (대체: 진간장 1큰술 + 설탕 0.5작은술)",
+        "section": "양념"
+      },
+      {
+        "name": "맛술",
+        "quantity_text": "1큰술 (대체: 물 1큰술)",
+        "original_text": "맛술 1큰술 (대체: 물 1큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "0.3작은술",
+        "original_text": "설탕 0.3작은술",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      },
+      {
+        "name": "참기름",
+        "quantity_text": "0.5큰술",
+        "original_text": "참기름 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "통깨",
+        "quantity_text": "약간",
+        "original_text": "통깨 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "청경채는 밑동을 자르고 흐르는 물에 깨끗이 씻은 뒤 먹기 좋게 2~4등분하고, 마늘은 편 썰어 준비합니다.",
+      "볼에 굴소스, 맛술, 설탕, 후추를 섞어 양념장을 만듭니다.",
+      "팬에 식용유를 두르고 편 썬 마늘을 넣어 중불에서 노릇하게 볶아 향을 냅니다.",
+      "센불로 올린 뒤 청경채 줄기 부분부터 넣고 1분간 빠르게 볶아줍니다.",
+      "잎 부분이 숨이 죽기 시작하면 양념장을 붓고 30초간 재빨리 볶아낸 뒤 참기름과 통깨를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "chinese-05",
+    "name": "간장 깐풍 만두",
+    "category": "중식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/chinese-05.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "냉동 군만두",
+        "quantity_text": "10개",
+        "original_text": "냉동 군만두 10개",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "1/3대",
+        "original_text": "대파 1/3대",
+        "section": "재료"
+      },
+      {
+        "name": "청양고추",
+        "quantity_text": "1개 (생략 가능)",
+        "original_text": "청양고추 1개 (생략 가능)",
+        "section": "재료"
+      },
+      {
+        "name": "식용유",
+        "quantity_text": "2큰술",
+        "original_text": "식용유 2큰술",
+        "section": "재료"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "1.5큰술",
+        "original_text": "진간장 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "식초",
+        "quantity_text": "1.5큰술",
+        "original_text": "식초 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1.5큰술",
+        "original_text": "설탕 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "굴소스",
+        "quantity_text": "0.5큰술 (대체: 진간장 0.5큰술 추가)",
+        "original_text": "굴소스 0.5큰술 (대체: 진간장 0.5큰술 추가)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "2큰술",
+        "original_text": "물 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "대파와 청양고추는 잘게 송송 다지고, 볼에 분량의 양념 재료를 모두 섞어 깐풍 소스를 만듭니다.",
+      "팬에 식용유 2큰술을 두르고 냉동 만두를 올려 중약불에서 앞뒤로 바삭하게 구워줍니다.",
+      "만두가 다 익으면 키친타월로 팬의 남은 기름을 가볍게 닦아냅니다.",
+      "팬 한쪽에 다진 대파, 청양고추, 만들어 둔 깐풍 소스를 부어 바글바글 끓여줍니다.",
+      "소스가 끓어오르면 만두와 빠르게 버무려 소스가 골고루 코팅되도록 30초간 볶아 마무리합니다."
+    ]
+  },
+  {
+    "id": "chinese-06",
+    "name": "10분 중화 비빔면",
+    "category": "중식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/chinese-06.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "중화면 또는 라면사리",
+        "quantity_text": "1개 (대체: 소면 1인분)",
+        "original_text": "중화면 또는 라면사리 1개 (대체: 소면 1인분)",
+        "section": "재료"
+      },
+      {
+        "name": "오이",
+        "quantity_text": "1/4개",
+        "original_text": "오이 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "1개(삶은 계란 또는 프라이)",
+        "original_text": "계란 1개(삶은 계란 또는 프라이)",
+        "section": "재료"
+      },
+      {
+        "name": "진간장",
+        "quantity_text": "2큰술",
+        "original_text": "진간장 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "식초",
+        "quantity_text": "2큰술",
+        "original_text": "식초 2큰술",
+        "section": "양념"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1.5큰술",
+        "original_text": "설탕 1.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "고춧가루",
+        "quantity_text": "1큰술",
+        "original_text": "고춧가루 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "땅콩버터",
+        "quantity_text": "0.5큰술 (대체: 참기름 1큰술 + 깨소금 0.5큰술)",
+        "original_text": "땅콩버터 0.5큰술 (대체: 참기름 1큰술 + 깨소금 0.5큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1큰술",
+        "original_text": "물 1큰술",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "오이는 가늘게 채 썰고, 계란은 취향에 맞게 삶거나 프라이로 익혀 준비합니다.",
+      "볼에 진간장, 식초, 설탕, 고춧가루, 다진 마늘, 땅콩버터(또는 참기름), 물을 넣고 잘 섞어 비빔 소스를 만듭니다.",
+      "끓는 물에 면을 삶은 뒤 찬물에 여러 번 헹궈 전분기를 빼고 물기를 꽉 짜줍니다.",
+      "그릇에 면을 담고 비빔 소스를 부은 뒤 채 썬 오이와 계란을 올려 마무리합니다."
+    ]
+  },
+  {
+    "id": "western-01",
+    "name": "베이컨 알리오 올리오 파스타",
+    "category": "양식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/western-01.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "스파게티 면",
+        "quantity_text": "1인분(500원 동전 크기)",
+        "original_text": "스파게티 면 1인분(500원 동전 크기)",
+        "section": "재료"
+      },
+      {
+        "name": "베이컨",
+        "quantity_text": "2줄 (대체: 스팸 또는 비엔나 소시지 적당량)",
+        "original_text": "베이컨 2줄 (대체: 스팸 또는 비엔나 소시지 적당량)",
+        "section": "재료"
+      },
+      {
+        "name": "마늘",
+        "quantity_text": "5쪽",
+        "original_text": "마늘 5쪽",
+        "section": "재료"
+      },
+      {
+        "name": "페페론치노",
+        "quantity_text": "3개 (대체: 청양고추 1개 또는 고춧가루 0.3큰술)",
+        "original_text": "페페론치노 3개 (대체: 청양고추 1개 또는 고춧가루 0.3큰술)",
+        "section": "재료"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1L",
+        "original_text": "물 1L",
+        "section": "재료"
+      },
+      {
+        "name": "올리브유",
+        "quantity_text": "3큰술 (대체: 식용유 3큰술)",
+        "original_text": "올리브유 3큰술 (대체: 식용유 3큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "1큰술(면 삶기용)",
+        "original_text": "소금 1큰술(면 삶기용)",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      },
+      {
+        "name": "파슬리 가루",
+        "quantity_text": "약간(생략 가능)",
+        "original_text": "파슬리 가루 약간(생략 가능)",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "마늘은 얇게 편 썰고, 베이컨은 한입 크기로 자르며 페페론치노는 잘게 부수어 준비합니다.",
+      "냄비에 물 1L와 소금 1큰술을 넣고 끓기 시작하면 스파게티 면을 넣어 포장지 표기 시간보다 1분 덜 삶아줍니다. (면수 1국자는 따로 남겨둡니다.)",
+      "팬에 올리브유를 넉넉히 두르고 약불에서 편 썬 마늘과 페페론치노를 볶아 마늘 향을 내줍니다.",
+      "마늘이 노릇해지면 베이컨을 넣고 중불에서 함께 볶아줍니다.",
+      "삶아진 면과 남겨둔 면수 1국자를 팬에 넣고 강불에서 1분간 빠르게 저어가며 소스를 유화시킵니다.",
+      "접시에 담아 후추와 파슬리 가루를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "western-02",
+    "name": "참치 토마토 파스타",
+    "category": "양식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/western-02.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "스파게티 면",
+        "quantity_text": "1인분",
+        "original_text": "스파게티 면 1인분",
+        "section": "재료"
+      },
+      {
+        "name": "참치캔",
+        "quantity_text": "100g(1캔)",
+        "original_text": "참치캔 100g(1캔)",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "재료"
+      },
+      {
+        "name": "물",
+        "quantity_text": "1L",
+        "original_text": "물 1L",
+        "section": "재료"
+      },
+      {
+        "name": "시판 토마토 파스타 소스",
+        "quantity_text": "1컵(약 200g) (대체: 케첩 5큰술 + 설탕 0.5큰술 + 진간장 0.5큰술 + 물 3큰술)",
+        "original_text": "시판 토마토 파스타 소스 1컵(약 200g) (대체: 케첩 5큰술 + 설탕 0.5큰술 + 진간장 0.5큰술 + 물 3큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "올리브유",
+        "quantity_text": "1큰술 (대체: 식용유 1큰술)",
+        "original_text": "올리브유 1큰술 (대체: 식용유 1큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "1큰술(면 삶기용)",
+        "original_text": "소금 1큰술(면 삶기용)",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "양파는 잘게 다지고, 참치캔은 기름을 가볍게 빼서 준비합니다.",
+      "끓는 물에 소금 1큰술을 넣고 스파게티 면을 7~8분간 삶아 건져냅니다.",
+      "팬에 올리브유를 두르고 다진 마늘과 양파를 넣어 중불에서 투명해질 때까지 볶아줍니다.",
+      "기름 뺀 참치와 시판 토마토 소스를 넣고 1분간 함께 끓여줍니다. (소스가 너무 되직하면 면수를 3큰술 정도 추가합니다.)",
+      "삶아진 면을 팬에 넣고 소스가 면에 잘 배도록 1분간 버무린 뒤 후추를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "western-03",
+    "name": "초간단 크림 리조또",
+    "category": "양식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/western-03.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "찬밥",
+        "quantity_text": "1공기",
+        "original_text": "찬밥 1공기",
+        "section": "재료"
+      },
+      {
+        "name": "베이컨",
+        "quantity_text": "2줄 (대체: 햄 또는 닭가슴살 적당량)",
+        "original_text": "베이컨 2줄 (대체: 햄 또는 닭가슴살 적당량)",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "버터",
+        "quantity_text": "1조각 (대체: 식용유 1큰술)",
+        "original_text": "버터 1조각 (대체: 식용유 1큰술)",
+        "section": "재료"
+      },
+      {
+        "name": "우유",
+        "quantity_text": "200ml",
+        "original_text": "우유 200ml",
+        "section": "양념"
+      },
+      {
+        "name": "슬라이스 체다치즈",
+        "quantity_text": "1장 (대체: 모차렐라 치즈 1줌)",
+        "original_text": "슬라이스 체다치즈 1장 (대체: 모차렐라 치즈 1줌)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "2꼬집",
+        "original_text": "소금 2꼬집",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "양파는 잘게 다지고, 베이컨은 먹기 좋은 크기로 썰어 준비합니다.",
+      "팬에 버터를 녹인 뒤 다진 마늘, 양파, 베이컨을 넣고 중불에서 양파가 투명해질 때까지 볶아줍니다.",
+      "우유 200ml와 찬밥 1공기를 넣고 밥알이 뭉치지 않게 잘 풀어주며 끓입니다.",
+      "우유가 끓어오르면 약불로 줄이고 슬라이스 치즈를 넣어 녹여줍니다.",
+      "농도가 걸쭉해지면 소금으로 간을 맞추고 후추를 뿌려 마무리합니다."
+    ]
+  },
+  {
+    "id": "western-04",
+    "name": "에그 인 헬 (샥슈카)",
+    "category": "양식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/western-04.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "계란",
+        "quantity_text": "2개",
+        "original_text": "계란 2개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/4개",
+        "original_text": "양파 1/4개",
+        "section": "재료"
+      },
+      {
+        "name": "비엔나 소시지",
+        "quantity_text": "5개 (대체: 베이컨 2줄 또는 참치 약간)",
+        "original_text": "비엔나 소시지 5개 (대체: 베이컨 2줄 또는 참치 약간)",
+        "section": "재료"
+      },
+      {
+        "name": "식빵",
+        "quantity_text": "2장 (대체: 모닝빵 또는 밥)",
+        "original_text": "식빵 2장 (대체: 모닝빵 또는 밥)",
+        "section": "재료"
+      },
+      {
+        "name": "시판 토마토 파스타 소스",
+        "quantity_text": "1컵(약 200g) (대체: 케첩 5큰술 + 물 4큰술 + 설탕 0.5큰술)",
+        "original_text": "시판 토마토 파스타 소스 1컵(약 200g) (대체: 케첩 5큰술 + 물 4큰술 + 설탕 0.5큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "다진 마늘",
+        "quantity_text": "0.5큰술",
+        "original_text": "다진 마늘 0.5큰술",
+        "section": "양념"
+      },
+      {
+        "name": "올리브유",
+        "quantity_text": "1큰술 (대체: 식용유 1큰술)",
+        "original_text": "올리브유 1큰술 (대체: 식용유 1큰술)",
+        "section": "양념"
+      },
+      {
+        "name": "모차렐라 치즈",
+        "quantity_text": "1줌",
+        "original_text": "모차렐라 치즈 1줌",
+        "section": "양념"
+      },
+      {
+        "name": "후추",
+        "quantity_text": "약간",
+        "original_text": "후추 약간",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "양파는 잘게 다지고, 비엔나 소시지는 동그랗게 썰어 준비합니다.",
+      "팬에 올리브유를 두르고 다진 마늘, 양파, 소시지를 넣어 중불에서 1~2분간 볶아줍니다.",
+      "시판 토마토 소스를 붓고 약불에서 보글보글 끓여줍니다.",
+      "소스가 끓으면 숟가락으로 자리를 두 군데 만든 뒤 계란 2개를 깨 넣고, 주변에 모차렐라 치즈를 뿌립니다.",
+      "뚜껑을 덮고 약불에서 3~4분간 익혀 계란 흰자가 익으면 후추를 뿌리고, 구운 식빵을 곁들여 마무리합니다."
+    ]
+  },
+  {
+    "id": "western-05",
+    "name": "길거리 토스트",
+    "category": "양식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/western-05.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "식빵",
+        "quantity_text": "2장",
+        "original_text": "식빵 2장",
+        "section": "재료"
+      },
+      {
+        "name": "계란",
+        "quantity_text": "2개",
+        "original_text": "계란 2개",
+        "section": "재료"
+      },
+      {
+        "name": "양배추",
+        "quantity_text": "1줌",
+        "original_text": "양배추 1줌",
+        "section": "재료"
+      },
+      {
+        "name": "당근",
+        "quantity_text": "약간(생략 가능)",
+        "original_text": "당근 약간(생략 가능)",
+        "section": "재료"
+      },
+      {
+        "name": "대파",
+        "quantity_text": "약간",
+        "original_text": "대파 약간",
+        "section": "재료"
+      },
+      {
+        "name": "버터",
+        "quantity_text": "1조각 (대체: 마가린 또는 식용유 1큰술)",
+        "original_text": "버터 1조각 (대체: 마가린 또는 식용유 1큰술)",
+        "section": "재료"
+      },
+      {
+        "name": "설탕",
+        "quantity_text": "1큰술",
+        "original_text": "설탕 1큰술",
+        "section": "양념"
+      },
+      {
+        "name": "케첩",
+        "quantity_text": "적당량",
+        "original_text": "케첩 적당량",
+        "section": "양념"
+      },
+      {
+        "name": "소금",
+        "quantity_text": "1꼬집",
+        "original_text": "소금 1꼬집",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "양배추와 당근은 가늘게 채 썰고, 대파는 송송 썰어 준비합니다.",
+      "볼에 계란 2개와 소금 1꼬집을 넣고 잘 푼 뒤, 썰어둔 채소를 모두 넣어 섞어줍니다.",
+      "팬에 버터를 녹이고 식빵 2장을 앞뒤로 노릇하게 구워 접시에 옮겨둡니다.",
+      "같은 팬에 기름을 살짝 두르고 계란 반죽을 식빵 크기에 맞춰 사각형 모양으로 앞뒤로 노릇하게 부쳐줍니다.",
+      "구운 식빵 위에 계란 부침을 올리고 설탕과 케첩을 취향껏 뿌린 뒤, 나머지 식빵을 덮어 마무리합니다."
+    ]
+  },
+  {
+    "id": "western-06",
+    "name": "감자 크림 스프",
+    "category": "양식",
+    "description": "사용자가 제공한 레시피",
+    "difficulty": "미기재",
+    "time_minutes": null,
+    "servings": null,
+    "image": "assets/recipes/western-06.png",
+    "image_note": "AI 생성 참고 이미지 · 실제 완성 모습과 다를 수 있습니다.",
+    "tip": "원문 분량입니다. 인분과 총 조리 시간은 제공되지 않았습니다.",
+    "source": "user",
+    "ingredients": [
+      {
+        "name": "감자",
+        "quantity_text": "2개",
+        "original_text": "감자 2개",
+        "section": "재료"
+      },
+      {
+        "name": "양파",
+        "quantity_text": "1/2개",
+        "original_text": "양파 1/2개",
+        "section": "재료"
+      },
+      {
+        "name": "버터",
+        "quantity_text": "1조각 (대체: 식용유 1큰술)",
+        "original_text": "버터 1조각 (대체: 식용유 1큰술)",
+        "section": "재료"
+      },
+      {
+        "name": "우유",
+        "quantity_text": "250ml",
+        "original_text": "우유 250ml",
+        "section": "양념"
+      },
+      {
+        "name": "물",
+        "quantity_text": "100ml",
+        "original_text": "물 100ml",
+        "section": "양념"
+      },
+      {
+        "name": "치킨스톡",
+        "quantity_text": "0.5큰술 (대체: 소금 0.5작은술 + 후추 약간)",
+        "original_text": "치킨스톡 0.5큰술 (대체: 소금 0.5작은술 + 후추 약간)",
+        "section": "양념"
+      },
+      {
+        "name": "파슬리 가루",
+        "quantity_text": "약간(생략 가능)",
+        "original_text": "파슬리 가루 약간(생략 가능)",
+        "section": "양념"
+      }
+    ],
+    "steps": [
+      "껍질을 벗긴 감자와 양파는 빨리 익도록 최대한 얇게 썰어 준비합니다.",
+      "냄비에 버터를 녹이고 양파와 감자를 넣어 중불에서 3분간 볶아줍니다.",
+      "물 100ml를 붓고 뚜껑을 덮어 감자가 푹 무를 때까지 5분간 끓여줍니다.",
+      "불을 끄고 믹서기나 핸드블렌더로 재료를 곱게 갈아줍니다. (믹서기가 없으면 포크나 국자로 곱게 으깨줍니다.)",
+      "다시 약불에 올린 뒤 우유 250ml와 치킨스톡(또는 소금)을 넣고 저어가며 2분간 끓인 후 파슬리 가루를 뿌려 마무리합니다."
+    ]
+  }
+]
